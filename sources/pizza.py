@@ -35,5 +35,9 @@ RECIPES = {
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
-    }
+    },
+    'choripan': {
+        'ingredients': {'mozzarella': 2, 'pepper': 2, 'onion': 2, 'ham': 2, 'basil': 2},
+        'price': 10,
+}
 }
